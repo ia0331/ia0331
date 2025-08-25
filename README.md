@@ -18,6 +18,10 @@ Yonsei University(연세대학교) BioMedicalEngineering(의공학부) graduate 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF9900?logo=mathworks&logoColor=white)
 ![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-FF9900?logo=amazonaws&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 
   
 ### ✨ Certifications
