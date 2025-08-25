@@ -12,6 +12,13 @@ Yonsei University(연세대학교) BioMedicalEngineering(의공학부) graduate 
    🔗Github Link: https://github.com/lgh0829/AWS-SAY-1-Team4
  - 경기 청년 갭이어 프로그램 : LLM based Dementia Prevention app (Ongoing, 2025.7 ~2025.11) - Project 『 LLM based Dementia Prevention app 』
 
+### ✨ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF9900?logo=mathworks&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-FF9900?logo=amazonaws&logoColor=white)
+
   
 ### ✨ Certifications
 - AWS certified AI Practitioner
