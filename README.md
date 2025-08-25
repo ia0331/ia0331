@@ -1,16 +1,23 @@
-## Hi there 👋
+## ABOUT ME
 
-<!--
-**ia0331/ia0331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ✨ Education
+Yonsei University(연세대학교) BioMedicalEngineering(의공학부) graduate 2019.3 ~ 2025.2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### ✨ Activities
+ - SW 대학중심산업단 Database Program (2021) Project 『 Website Development Based on MySQL 』 
+ - Sungkyunkwan University Bio-Healthcare AI Academy (Ongoing, 2025.3 –2025.9) - Project 『AI-assisted radiology workflow support platform 』 
+ - 경기 청년 갭이어 프로그램 : LLM based Dementia Prevention app (Ongoing, 2025.7 ~2025.11) - Project 『 LLM based Dementia Prevention app 』
+
+  
+### ✨ Certifications
+- AWS certified AI Practitioner
+- CITI program 
+
+
+
+### ✨ Languages
+- TOEIC 975 (2024)
+- OPIc IH (2024)
