@@ -2,7 +2,7 @@
 
 
 ### ✨ Education
-Yonsei University(연세대학교) BioMedicalEngineering(의공학부) graduate 2019.3 ~ 2025.2
+Yonsei University(연세대학교) BioMedicalEngineering(의공학부) graduate (2019.3 ~ 2025.2)
 
 
 
