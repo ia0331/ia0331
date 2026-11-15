@@ -37,4 +37,4 @@ Yonsei University(연세대학교) BioMedicalEngineering(의공학부) graduate 
 
 ### ✨ Languages
 - TOEIC 975 (2024)
-- OPIc IH (2024)
+- OPIc IH (2026)
