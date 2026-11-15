@@ -8,7 +8,7 @@
 
 ### ✨ Activities
  - SW 대학중심산업단 Database Program (2021) Project 『 Website Development Based on MySQL 』 
- - Sungkyunkwan University Bio-Healthcare AI Academy (Ongoing, 2025.3 –2025.9) - Project 『AI-assisted radiology workflow support platform 』
+ - Sungkyunkwan University Bio-Healthcare AI Academy (2025.3 –2025.9) - Project 『AI-assisted radiology workflow support platform 』
 
    🔗Github Link: https://github.com/lgh0829/AWS-SAY-1-Team4 🔗Github Link(NLP): https://github.com/ia0331/nlp_project
 
