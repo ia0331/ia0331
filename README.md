@@ -32,7 +32,6 @@ Yonsei University(연세대학교) BioMedicalEngineering(의공학부) graduate 
 - AWS certified AI Practitioner
 - AICE Associate
 - SQLD
-- CITI program (Confilts of Interest -Data or Specimens Only Research)
 
 
 
